@@ -1,0 +1,9 @@
+C:\Users\MSI 8RE\source\repos\ProjektJA\ProjektJA\x64\Debug\ProjektJA.MyForm.resources
+C:\Users\MSI 8RE\source\repos\ProjektJA\ProjektJA\x64\Debug\ProjektJA.vcxproj.GenerateResource.cache
+C:\Users\MSI 8RE\source\repos\ProjektJA\ProjektJA\x64\Debug\ProjektJA.vcxprojAssemblyReference.cache
+D:\Wszio\Studia\Obecne przedmioty\JA Projekt\JA\ProjektJA\ProjektJA\x64\Debug\ProjektJA.vcxprojAssemblyReference.cache
+D:\Wszio\Studia\Obecne przedmioty\JA Projekt\JA\ProjektJA\ProjektJA\x64\Debug\ProjektJA.MyForm.resources
+D:\Wszio\Studia\Obecne przedmioty\JA Projekt\JA\ProjektJA\ProjektJA\x64\Debug\ProjektJA.vcxproj.GenerateResource.cache
+C:\Wszio\Studia\Obecne przedmioty\JA Projekt\JA\ProjektJA\ProjektJA\x64\Debug\ProjektJA.vcxprojAssemblyReference.cache
+C:\Wszio\Studia\Obecne przedmioty\JA Projekt\JA\ProjektJA\ProjektJA\x64\Debug\ProjektJA.MyForm.resources
+C:\Wszio\Studia\Obecne przedmioty\JA Projekt\JA\ProjektJA\ProjektJA\x64\Debug\ProjektJA.vcxproj.GenerateResource.cache

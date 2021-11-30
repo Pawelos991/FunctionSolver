@@ -1,0 +1,9 @@
+﻿  Functions.cpp
+C:\Wszio\Studia\Archiwum\JA Projekt\JA Projekt\JA\ProjektJA\ProjektJA\Functions.cpp(33,31): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  MyForm.cpp
+C:\Wszio\Studia\Archiwum\JA Projekt\JA Projekt\JA\ProjektJA\ProjektJA\MyForm.h(414,1): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+  SquareFunc.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generowanie kodu...
+  Functions.obj : napotkano moduł MSIL; konsolidowanie przyrostowe jest wyłączone dla modułów MSIL; zostanie wykonana pełna konsolidacja
+  ProjektJA.vcxproj -> C:\Wszio\Studia\Archiwum\JA Projekt\JA Projekt\JA\ProjektJA\x64\Release\ProjektJA.exe

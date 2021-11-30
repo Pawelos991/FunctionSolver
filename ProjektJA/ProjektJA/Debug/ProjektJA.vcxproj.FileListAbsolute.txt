@@ -1,0 +1,3 @@
+C:\Users\MSI 8RE\source\repos\ProjektJA\ProjektJA\Debug\ProjektJA.vcxprojAssemblyReference.cache
+C:\Users\MSI 8RE\source\repos\ProjektJA\ProjektJA\Debug\ProjektJA.MyForm.resources
+C:\Users\MSI 8RE\source\repos\ProjektJA\ProjektJA\Debug\ProjektJA.vcxproj.GenerateResource.cache

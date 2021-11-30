@@ -1,0 +1,8 @@
+LIBRARY DllAsm
+EXPORTS 
+count_deltaroot
+count_delta
+count_p
+count_q
+count_x1
+count_x2

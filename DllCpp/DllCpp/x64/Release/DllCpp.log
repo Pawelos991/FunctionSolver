@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  dllcpp.cpp
+  dllmain.cpp
+     Trwa tworzenie biblioteki C:\Wszio\Studia\Archiwum\JA Projekt\JA Projekt\JA\ProjektJA\x64\Release\DllCpp.lib i obiektu C:\Wszio\Studia\Archiwum\JA Projekt\JA Projekt\JA\ProjektJA\x64\Release\DllCpp.exp
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+  All 7 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  DllCpp.vcxproj -> C:\Wszio\Studia\Archiwum\JA Projekt\JA Projekt\JA\ProjektJA\x64\Release\DllCpp.dll
